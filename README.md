@@ -32,7 +32,9 @@ ii)  Quantum hybrid solution in which mall battery is reset on daily basis - the
 iii) Quantum solution which doesnt compute the calculations classically<br>
      DeloitteQuperMarketDataRetreival_Quantum.ipynb<br>
      <br>
-iv)  Classical solution<br>
+iv)  Classical solution which is based on Gurobi optimizer<br>
+     ClassicalAlgorithm.ipynb<br>
+     <br>
 <br>
 Step 3: Please use the car data sheet from our repository as we have included 2 new columns Discharging Ind and Charging Ind for our better optimisation. <br>
 If high volume of data is used or any new data sheet is used, please rename the two new columns as this and execute the file.<br>
