@@ -1,2 +1,2 @@
-# Green-Qupermarket-Technical-Focus---Deloitte
-Womanium Quantum Hackathon 2022
+# Qustomers
+Womanium Quantum Hackathon challenge 2022
